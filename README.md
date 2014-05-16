@@ -6,6 +6,10 @@ jQuery Storage API is a plugin that simplify access to storages (HTML5) & cookie
 Functionalities:
 * To store object easily, encode/decode it with JSON automatically
 * Ability to define namespace and use it as a specific storage
+- item
+- item
+- item
+
 * Magic getter and setter to have access at an infinite object level with one call
 * Add jquery.cookie and manage your cookies with this API
 * You want use storage on old browsers? Add jquery.cookie & JSON and JQuery Storage API use cookies to simulate storage!
